@@ -66,7 +66,8 @@
    "z": "22:00",
    "n": "Tracker",
    "s": "PP",
-   "ep": "S4 E8 · Hide and Seek"
+   "ep": "S4 E8 · Hide and Seek",
+   "desc": "When two children and their au pair vanish from a wealthy Maryland family's home, Colter races against the clock to find them; Reenie calls in a family favor while investigating the circumstances surrounding the death of Mel's mother."
   },
   {
    "d": "2026-12-02",
@@ -91,7 +92,8 @@
    "a": "20:30",
    "z": "21:00",
    "n": "Eternally Yours",
-   "s": "PP"
+   "s": "PP",
+   "desc": "After 500 years, vampire couple Charles and Liz are stuck in a rut, until the arrival of their daughter's human boyfriend."
   },
   {
    "d": "2026-12-03",
@@ -107,7 +109,8 @@
    "a": "22:00",
    "z": "23:00",
    "n": "Cupertino",
-   "s": "PP"
+   "s": "PP",
+   "desc": "A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights."
   },
   {
    "d": "2026-12-04",
@@ -116,7 +119,8 @@
    "n": "Law & Order: SVU",
    "s": "PK",
    "ep": "S28 E7 · Untouchable",
-   "note": "Airs on NBC the night before; streams on Peacock today."
+   "note": "Airs on NBC the night before; streams on Peacock today.",
+   "desc": "When a nightclub dancer is assaulted by a VIP, the squad’s investigation is thwarted by a powerful network determined to protect one of its own. As the case heads to trial, Benson and Carisi are divided on how to handle a witness’ testimony."
   },
   {
    "d": "2026-12-04",
@@ -195,7 +199,8 @@
    "n": "Tracker",
    "s": "PP",
    "note": "Moves to 9:30 PM.",
-   "ep": "S4 E9 · The Retreat"
+   "ep": "S4 E9 · The Retreat",
+   "desc": "When a corporate wilderness retreat takes a dangerous turn in the Sierra Nevada Mountains, Colter reunites with search-and-rescue expert Roger McLaren to search for the missing employees."
   },
   {
    "d": "2026-12-07",
@@ -220,7 +225,8 @@
    "a": "20:30",
    "z": "21:00",
    "n": "Eternally Yours",
-   "s": "PP"
+   "s": "PP",
+   "desc": "After 500 years, vampire couple Charles and Liz are stuck in a rut, until the arrival of their daughter's human boyfriend."
   },
   {
    "d": "2026-12-10",
@@ -286,7 +292,8 @@
    "n": "Who the Hell Is Hamish?",
    "s": "PP",
    "note": "Six-episode series, all streaming from Dec 10.",
-   "b": true
+   "b": true,
+   "desc": "Who The Hell Is Hamish? is inspired by an industrious fraudster, and the group of victims who eventually decided they had had enough of him. The charming and cultured Hamish sets his sights on Bec, a recently divorced single mother with three sons and access to a significant family trust."
   },
   {
    "d": "2026-12-12",
@@ -305,7 +312,8 @@
    "n": "Dangerous Game: The Legacy Murders",
    "s": "PP",
    "note": "Movie, streaming from Dec 15.",
-   "b": true
+   "b": true,
+   "desc": "A family reunion at a remote mansion takes a lethal turn when they are trapped inside and forced to play a deadly survival game where only one will make it out alive."
   },
   {
    "d": "2026-12-18",
@@ -342,7 +350,8 @@
    "n": "Frisco King",
    "s": "PP",
    "note": "Series premiere, two episodes.",
-   "dv": true
+   "dv": true,
+   "desc": "Frisco King follows seasoned New Orleans gangster Lee Washington as he lands in Frisco, Texas, and discovers a hustler's playground hidden beneath the polished surface of American suburbia."
   },
   {
    "d": "2026-12-19",
@@ -461,7 +470,8 @@
    "n": "Frisco King",
    "s": "PP",
    "note": "New episode.",
-   "dv": true
+   "dv": true,
+   "desc": "Frisco King follows seasoned New Orleans gangster Lee Washington as he lands in Frisco, Texas, and discovers a hustler's playground hidden beneath the polished surface of American suburbia."
   },
   {
    "d": "2026-12-26",
