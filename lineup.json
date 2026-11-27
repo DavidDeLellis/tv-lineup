@@ -839,5 +839,217 @@
       "h": "Renewed for Season 2, no premiere date yet",
       "t": "Peacock renewed The Five-Star Weekend for a second season, reported Aug 5. Season 1 ran 8 episodes and ended July 9. No premiere date has been announced. It is on your list."
     }
+  ],
+  "prime": [
+    {
+      "l": "Series",
+      "n": "The Night Manager",
+      "note": "Season 2 is out.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "The Terminal List",
+      "note": "Season 2 is out.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "Lazarus",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "Three Pines",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "Absentia",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "Tell Me Your Secrets",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "The Kettering Incident",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "The ABC Murders",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Series",
+      "n": "Outer Range",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Series",
+      "n": "The Lost Flowers of Alice Hart",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Series",
+      "n": "The Lake",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Series",
+      "n": "Modern Love",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Series",
+      "n": "The Collection",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Movie",
+      "n": "All Good Things",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "Strangerland",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "Serenity",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "The Return",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "Marlowe",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "The Visitor",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "Memory",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "Chickfight",
+      "note": "Included with Prime.",
+      "who": "B"
+    },
+    {
+      "l": "Movie",
+      "n": "The Hunt",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Summer Camp",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Black String",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Dark Windows",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "The Child Remains",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Polaroid",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "A Savannah Haunting",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Howard's Mill",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Lansky",
+      "note": "Included with Prime.",
+      "who": "D"
+    },
+    {
+      "l": "Movie",
+      "n": "Space Cadet",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Movie",
+      "n": "Upgraded",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Movie",
+      "n": "What We Did on Our Holiday",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Movie",
+      "n": "I Want You Back",
+      "note": "Included with Prime.",
+      "who": "T"
+    },
+    {
+      "l": "Movie",
+      "n": "Accidental Family",
+      "note": "Included with Prime.",
+      "who": "T"
+    }
   ]
 }
