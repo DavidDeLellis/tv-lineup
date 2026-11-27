@@ -459,7 +459,7 @@
    "l": "Wed, Dec 16",
    "n": "A Deadly Affair: The Pamela Smart Story",
    "note": "True-crime documentary. Reminder not confirmed.",
-   "who": "D",
+   "who": "B",
    "desc": "True crime documentary on the Pamela Smart case, the New Hampshire teacher convicted in her husband's murder."
   },
   {
@@ -615,13 +615,6 @@
    "note": "Docudrama",
    "who": "D",
    "desc": "Docudrama series on the rise of Alexander the Great."
-  },
-  {
-   "l": "On My List",
-   "n": "The Thursday Murder Club",
-   "note": "Movie",
-   "who": "D",
-   "desc": "Four retirees in a quiet retirement village meet weekly to solve cold-case murders."
   }
  ],
  "news": [
