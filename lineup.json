@@ -1065,5 +1065,143 @@
       "who": "T",
       "desc": "2023 romcom. A shy, lonely genealogist finds what looks like the perfect family and love, but they mistakenly think she is a long-lost relative."
     }
+  ],
+  "discover": [
+    {
+      "l": "Thriller",
+      "n": "The Uprising",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Historical action thriller. Andrew Garfield leads a 14th-century English peasant revolt inspired by the Robin Hood legend."
+    },
+    {
+      "l": "Thriller",
+      "n": "Nightcrawler",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Jake Gyllenhaal plays a driven freelance crime-scene videographer in Los Angeles."
+    },
+    {
+      "l": "Thriller",
+      "n": "Ambulance",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Two brothers rob a bank and hijack an ambulance to escape."
+    },
+    {
+      "l": "Crime",
+      "n": "The Outfit",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Mark Rylance plays a tailor who makes suits for gangsters in 1950s Chicago."
+    },
+    {
+      "l": "Crime",
+      "n": "End of Watch",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Two LAPD patrol officers become targets of a cartel."
+    },
+    {
+      "l": "Crime",
+      "n": "Fargo",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Movie. A small-town police chief investigates a botched kidnapping plot."
+    },
+    {
+      "l": "Horror",
+      "n": "Alien: Romulus",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Young colonists scavenging a derelict space station come face to face with the most terrifying life form."
+    },
+    {
+      "l": "Horror",
+      "n": "M3GAN 2.0",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Sequel to the killer AI doll movie."
+    },
+    {
+      "l": "Horror",
+      "n": "Never Let Go",
+      "s": "PK",
+      "who": "D",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Halle Berry plays a mother who keeps her family tied to their house to protect them from a force in the woods."
+    },
+    {
+      "l": "Comedy",
+      "n": "Dig",
+      "s": "PK",
+      "who": "B",
+      "note": "Peacock Original, added Nov 23, 2026.",
+      "desc": "Amy Poehler and Michael Schur's comedy about archaeologists and unmotivated students at a Greek dig who find a rare artifact."
+    },
+    {
+      "l": "Comedy",
+      "n": "Meet the Parents",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "Ben Stiller meets his girlfriend's father, played by Robert De Niro."
+    },
+    {
+      "l": "Comedy",
+      "n": "The Hitman's Bodyguard",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "A bodyguard must protect his old rival, a hitman, on the way to testify."
+    },
+    {
+      "l": "Comedy",
+      "n": "The Killers Game",
+      "s": "PK",
+      "who": "B",
+      "note": "Added to Peacock in Nov 2026. UNVERIFIED that it is still there.",
+      "desc": "A hitman diagnosed with a fatal illness puts a contract out on himself."
+    },
+    {
+      "l": "Comedy",
+      "n": "Collect & Praise",
+      "s": "NF",
+      "who": "B",
+      "note": "Series. Streams Dec 1.",
+      "desc": "A money-hungry megachurch pastor and his unpredictable deacon scheme their way through scandal."
+    },
+    {
+      "l": "Mystery",
+      "n": "Ray Gunn",
+      "s": "NF",
+      "who": "D",
+      "note": "Animated movie. Streams Dec 18.",
+      "desc": "A private eye is pulled into a case involving aliens, murder and a multimedia star."
+    },
+    {
+      "l": "Drama",
+      "n": "Unaccustomed Earth",
+      "s": "NF",
+      "who": "T",
+      "note": "Series. Streams Dec 17.",
+      "desc": "A tight-knit Indian American community navigates love, desire and belonging."
+    },
+    {
+      "l": "Drama",
+      "n": "Emily in Paris",
+      "s": "NF",
+      "who": "T",
+      "note": "Final season. Streams Dec 24.",
+      "desc": "The last season of the comedy-drama series."
+    }
   ]
 }
