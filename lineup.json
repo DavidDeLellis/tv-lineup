@@ -957,8 +957,8 @@
       "l": "Movie",
       "n": "The Return",
       "note": "Included with Prime.",
-      "who": "B",
-      "desc": "Details not verified yet."
+      "who": "D",
+      "desc": "2020 horror and sci-fi. After his father dies, a college student returns to the family home to settle the estate and starts to notice unsettling things."
     },
     {
       "l": "Movie",
@@ -986,7 +986,7 @@
       "n": "Chickfight",
       "note": "Included with Prime.",
       "who": "B",
-      "desc": "Details not verified yet."
+      "desc": "2020 action comedy with Malin Akerman. Anna Wyncomb joins an underground all-female fight club to turn her life around. Rated R."
     },
     {
       "l": "Movie",
@@ -999,22 +999,15 @@
       "l": "Movie",
       "n": "Summer Camp",
       "note": "Included with Prime.",
-      "who": "D",
-      "desc": "Details not verified yet."
+      "who": "T",
+      "desc": "2024 comedy. Three best friends from sleepaway camp have drifted apart over the years. Heartwarming and nostalgic. PG-13."
     },
     {
       "l": "Movie",
-      "n": "Black String",
+      "n": "The Black String",
       "note": "Included with Prime.",
       "who": "D",
-      "desc": "Details not verified yet."
-    },
-    {
-      "l": "Movie",
-      "n": "Dark Windows",
-      "note": "Included with Prime.",
-      "who": "D",
-      "desc": "Details not verified yet."
+      "desc": "2021 psychological horror. After a one-night stand, Jonathan (Frankie Muniz) falls ill and believes he is the victim of something sinister. Rated R."
     },
     {
       "l": "Movie",
@@ -1036,13 +1029,6 @@
       "note": "Included with Prime.",
       "who": "D",
       "desc": "Horror. A family moves into a Savannah house with a haunted past."
-    },
-    {
-      "l": "Movie",
-      "n": "Howard's Mill",
-      "note": "Included with Prime.",
-      "who": "D",
-      "desc": "Details not verified yet."
     },
     {
       "l": "Movie",
@@ -1084,7 +1070,7 @@
       "n": "Accidental Family",
       "note": "Included with Prime.",
       "who": "T",
-      "desc": "Details not verified yet."
+      "desc": "2023 romcom. A shy, lonely genealogist finds what looks like the perfect family and love, but they mistakenly think she is a long-lost relative."
     }
   ]
 }
